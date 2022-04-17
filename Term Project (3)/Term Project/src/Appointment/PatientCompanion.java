@@ -9,7 +9,7 @@ import java.util.Scanner;
 
 /**
  *
- * @author cemayartepe
+ * @author user
  */
 public class PatientCompanion extends Patient {
     
